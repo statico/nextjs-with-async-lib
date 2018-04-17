@@ -42,6 +42,8 @@ I can't change `lib/test.js` to ES6-style `export`s because Node will complain w
 
 - https://github.com/webpack/webpack/issues/4039
 - https://github.com/zeit/next.js/issues/3650
+- https://github.com/zeit/next.js/issues/1472
+- https://github.com/zeit/next.js/issues/1735
 
 ### pages/index.js
 
